@@ -43,9 +43,3 @@ Through this repo, you’ll learn:
    - Simple I/O-mapped memory examples
 
 ---
-
-## How to Use
-
-### Prerequisites
-- **Verilog/SystemVerilog simulator** (Icarus Verilog, ModelSim, or equivalent)
-- Python (optional, for automated testing scripts)
